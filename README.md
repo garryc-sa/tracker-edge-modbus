@@ -44,7 +44,7 @@ _(Note!  This FAQ isn't meant to be legal advice, if you're unsure, please consu
 
 This application must be built with device OS version 2.0.0-rc.3 and above.
 
-1. Clone this repository `$ git clone git@github.com:particle-iot/tracker-edge.git && cd ./tracker-edge`
+1. Clone this repository `$ git clone git@github.com:garryc-sa/tracker-edge-modbus.git && cd ./tracker-edge-modbus`
 2. Init & Update Submodules `$ git submodule update --init --recursive`
 3. Open Particle Workbench
 4. Run the `Particle: Import Project` command, follow the prompts, and wait for the project to load
