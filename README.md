@@ -1,7 +1,7 @@
 
-# Particle Tracker Edge Firmware
+# Particle Tracker Edge Firmware Modbus RTU support
 
-Application reference firmware for the Particle Tracker.
+Application reference firmware for the Particle Tracker which adds Modbus RTU library and support via an RS-485 break-out board.
 
 # Resources
 
