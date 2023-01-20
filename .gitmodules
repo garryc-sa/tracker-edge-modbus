@@ -40,6 +40,6 @@
 [submodule "lib/debounce-switch"]
 	path = lib/debounce-switch
 	url = https://github.com/rickkas7/DebounceSwitchRK.git
-[submodule "lib/modbus-master"]
-	path = lib/modbus-master
+[submodule "lib/ModbusMasterGC"]
+	path = lib/ModbusMasterGC
 	url = https://github.com/garryc-sa/ModbusMasterGC.git
